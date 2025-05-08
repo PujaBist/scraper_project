@@ -1,3 +1,23 @@
+#go to  git bash
+# git config --global user.name "puja bist"
+#git config --global uer.email "bistpuja71@gmail.com"
+
+
+
+
+
+
+#git init =>intialize git
+#git status => if you want to check what are the status of files
+#git diff => if you want to check what are the changes
+# git add . => trcak all files
+#git commit =>"your message"
+
+
+
+
+
+
 import requests 
 from bs4 import BeautifulSoup 
 import sqlite3
